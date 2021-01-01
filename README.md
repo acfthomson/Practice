@@ -26,3 +26,4 @@ Practice exercises from a variety of resources
              - Python
              - Matplotlib.pyplot
              - Numpy
+             - Statistics
